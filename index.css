@@ -1,0 +1,26 @@
+/* main outerline color red */
+
+.main{
+    padding: 0px 10px;
+    border: 2px solid red;
+    width: 20%; 
+    height: auto; 
+    border-radius:6px; 
+}  
+
+/* outer layer of the bottom left side parent */
+.logo{     
+    /* border: 2px solid red; */
+    margin-top: 50px;
+     display: flex; 
+     padding: 10px  0px;
+     justify-content: flex-end;
+     
+}  
+/* child left side bottom */
+.left_Side{
+    border: 2px solid black; 
+    height: 50px; 
+    width: 70px; 
+    text-align: center;
+}
